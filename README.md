@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 💻 I'm Ícaro Caetano</h1>
 
 <p align="center">
-  💻 Java|Kotlin|React & Spring Boot enthusiast 
+  ♟️ Java|Kotlin|React & Spring Boot enthusiast 
 </p>
 
 ---
