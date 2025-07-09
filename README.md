@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I'm a backend developer focused on building scalable and resilient microservices for fraud prevention systems. I work mainly with Java and Spring Boot, integrating with services like Redis, Kafka.
+I'm a backend developer focused on building scalable and resilient microservices. I work mainly with Java and Spring Boot, integrating with services like Redis, Kafka and database.
 
 - 🔍 Currently working on the project LendingClub
 - 🧠 Passionate about system design, observability and clean architecture
