@@ -1,19 +1,34 @@
 <h1 align="center">Hi there 💻 I'm Ícaro Caetano</h1>
 
 <p align="center">
-  💻 Backend-focused developer | Java & Kotlin | Spring Boot | React on the side
+  💡 Passionate Software Engineer | Fullstack Developer | Java & Kotlin | Spring Framework | React
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm a backend developer focused on building scalable and resilient microservices. I work mainly with Java and Spring Boot, integrating with services like Redis, Kafka and database.
 
-- 🔍 Currently working on the project LendingClub
-- 🧠 Passionate about system design, observability and clean architecture
+I'm a results-driven **Senior Software Engineer** with a strong focus on backend development using **Java**, **Kotlin**, and the **Spring ecosystem**. I thrive in fast-paced and challenging environments, delivering scalable, maintainable, and resilient microservices for real-world problems.
+
+With experience ranging from legacy system maintenance to greenfield microservices, I bring a hands-on approach and a commitment to quality and collaboration.
+
+- 🔍 Currently working at **LendingClub/@Reflections**
+- 🔧 Maintaining and evolving large-scale systems (Java, Struts, React)
+- 🧠 Passionate about clean architecture, system design and observability
+- 👁️ Highlight: Development of **Facial Biometric** modules and modernization of **legacy Struts systems**
 
 ---
+
+```text
+Java | Kotlin | Spring Boot | JSP | Struts | JSF | EJB | Servlets | PrimeFaces | JPA | Hibernate | JDBC Template
+React | React Native | Typescript | Javascript | Next.js | HTML | CSS | JQuery
+CI/CD | Jenkins | SonarQube | Git Flow | Docker | Kubernetes | Jira | Azure | GitLab | Bitbucket
+Databases: Oracle SQL | MySQL | PostgreSQL | H2 | MongoDB
+Messaging & Auth: Kafka | SendGrid | Cognito | JWT
+Monitoring & Tools: Grafana | Splunk | Swagger | Tomcat | JBoss | WebLogic
+API Design: REST | SOAP | OpenAPI
+```
 
 ### 🛠 Tech Stack
 
@@ -72,6 +87,13 @@ I'm a backend developer focused on building scalable and resilient microservices
 - 💼 LinkedIn: [linkedin.com/in/icarocaetano](https://linkedin.com/in/icarocaetano)
 
 ---
+
+🌐 Open To
+👥 Networking with tech professionals
+
+🚀 Collaborating on enterprise-grade projects
+
+💼 Exploring new opportunities in backend and fullstack development
 
 ---
 
