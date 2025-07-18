@@ -83,8 +83,9 @@ API Design: REST | SOAP | OpenAPI
 
 ### 📫 Contact Me
 
-- 📧 Email: [icaro.caetano@gmail.com](mailto:icaro.caetano@gmail.com)
+- 📧 Email:    [icaro.caetano@gmail.com](mailto:icaro.caetano@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/icarocaetano](https://linkedin.com/in/icarocaetano)
+- ✍️ Medium:   [https://medium.com/@icaro.caetano](https://medium.com/@icaro.caetano)
 
 ---
 
