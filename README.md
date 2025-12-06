@@ -77,10 +77,7 @@ API Design: REST | SOAP | OpenAPI
   <img src="https://github-readme-stats-psuupl7xz-icarocaetanos-projects.vercel.app/api/top-langs/?username=icarocaetano&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
-
-
 ---
-
 
 
 ### 📫 Contact Me
