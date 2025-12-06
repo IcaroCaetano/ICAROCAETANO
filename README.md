@@ -73,9 +73,10 @@ API Design: REST | SOAP | OpenAPI
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icarocaetano&show_icons=true&theme=tokyonight&hide_title=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarocaetano&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=icarocaetano&show_icons=true&theme=tokyonight&hide_title=true&cache_seconds=86400" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarocaetano&layout=compact&theme=tokyonight&cache_seconds=86400" height="180"/>
 </p>
+
 
 ---
 
