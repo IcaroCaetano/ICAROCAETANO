@@ -70,16 +70,6 @@ API Design: REST | SOAP | OpenAPI
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-psuupl7xz-icarocaetanos-projects.vercel.app/api?username=icarocaetano&show_icons=true&theme=tokyonight&hide_title=true" height="180" />
-  <img src="https://github-readme-stats-psuupl7xz-icarocaetanos-projects.vercel.app/api/top-langs/?username=icarocaetano&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
-
 ### 📫 Contact Me
 
 - 📧 Email:    [icaro.caetano@gmail.com](mailto:icaro.caetano@gmail.com)
